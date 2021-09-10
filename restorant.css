@@ -75,7 +75,7 @@ body {
 }
 .mainsec1 {
     height: 800px;
-    background-image: url(/BGurl.jpg);
+    background-image: url(/photoes/BGurl.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -153,7 +153,7 @@ body {
     position: absolute;
 }
 .parallax {
-    background: url(/parallaximg.png);
+    background: url(/photoes/parallaximg.png);
     background-position: left;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -201,14 +201,14 @@ body {
 }
 
 .pasta-parallex {
-    background: url(/pasta-parallex.jpg);
+    background: url(photoes/pasta-parallex.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
     min-height: 500px;
 }
 .chicken-parallex {
-    background: url(/chicken-parallex.jpg);
+    background: url(/photoes/chicken-parallex.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
